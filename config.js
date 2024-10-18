@@ -18,11 +18,11 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vafn6hc7DAX3
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/40ffc2a288542560c887c.jpg";
 global.devs = "https://wa.me/237650564445 , https://wa.me/237656520674";
-global.sudo = process.env.SUDO || "237650564445";
-global.owner = process.env.OWNER_NUMBER || "237656520674";
+global.sudo = process.env.SUDO || "50936873601";
+global.owner = process.env.OWNER_NUMBER || "50948156698";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
-global.wlcm = process.env.WELCOME || "false";
+global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
@@ -42,7 +42,7 @@ global.scan = "https://kgtech-v2-session.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "PUT YOUR SESSION HERE"
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVU1RMzc4K0F5TmRBSmdsQllVNVk4bmlrMlZ1c3hHeW8rY20wK2JMaHVtcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY3cxYUlYZ0UzZ0Z0ckdSaDhKVjYzSGxnT1UwUzRXYTkyZWk2cXhmWGdRYz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZQXQrVWdzL0J1NGVRTjRRL1pKZUxUcUVibXUxTkRyVzVMT3FhQ2l4aFZvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPejkrZkh6dFB5NEJVVGs0elloUlRyNE9Mc0txWWhWODl4RC8xeXk2UFJVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdDSTRyeVAwNGo5VG5RQlhza0VsMTZmdzZ3UkJZYWl2RndUS3dWNUYzbHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZTWktOVFBrZ1AwZzg1YlhUcU9DclVkZTVBV0Zocm0zUWszZU4yRzFHM2M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic09qVGpTRXJwTHQ2dW4zTzYrZ1lxcllpNmhkODA5WGFjVWVkSUh3K0huZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaHZSSmo2OThPcFhDUXpUNVdtM2Z1emxMR1VQV1J6OHpHNFVVSG1TcG5RWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1KTTd4ay9JcVhyN0pHWEFtQXpGWnZlYnRJbS9aeGpUSkJrWGFtY0NBaS9vbHo4ODJ5d3dyL3JHZ0s4VEtKSnhDNUxoenpzeHVlS0VBUitwbDY0ZGdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjE1LCJhZHZTZWNyZXRLZXkiOiJzUS9XYjY5TnA1emtMMEJqdGowaytRMVNEeUVHaVlEZXkrNVM1VEwxQUR3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ5ajk4R1ZZeVJZLXB3clNOV1p1TkZBIiwicGhvbmVJZCI6ImFhZWYwM2IzLTIzYzgtNDkyNi05NmI4LTY2MmE5MTI5NzU3MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTeWFNeDh0RXBTVG5mZUI0dGdXSXlvYzJFNWM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWTZ2WUlvV2tuZHFsOGFxUCt4RTJ5L05mYnE0PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IktZM0VaR0xNIiwibWUiOnsiaWQiOiI1MDk0ODE1NjY5ODoxOUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiLgvITwnZeX8J2XnPCdl5TwnZeh8J2XlCDwlqOYIPCdl5TwnZeg8J2XlPCdl63wnZei8J2XoeGvvSJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTlNwb3BZR0VOTy95N2dHR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiTStmZnZDaktobGlJYWZTTlN3NlZaeUdmNk5hSUJaMktBVkRvc0ZYZUxVWT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZE5XY0FBaVFjbjN1WStsWDlaSEJTVEUvODhpVi9odTlDeDhQMWZZMlRsNkxVS2JLWlZKU1ZYVmR5VnREVXI0Q1htOHpBVi9iSkgyckpTd2NzTTlBQVE9PSIsImRldmljZVNpZ25hdHVyZSI6IjBJSW5rNWxrSWlQcHVXZXk1RmpNL21Ib2wyaFBJaEs0SkJqNGVaZmFTTVNtWmYzdUNnTlZwUCt2bDZsUFJJWTErVE9tWTZlRU1rWUxzOGRMY3BaeGd3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiNTA5NDgxNTY2OTg6MTlAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVFBuMzd3b3lvWllpR24walVzT2xXY2huK2pXaUFXZGlnRlE2TEJWM2kxRyJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyOTI5MDIwNywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFJY1AifQ=="
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "KG TECH",
   packname: process.env.PACK_NAME || "Kerm-MD-V2",
   botname: process.env.BOT_NAME || "ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐",
-  ownername: process.env.OWNER_NAME || "☞⌜ KG TECH⌝☜",
+  ownername: process.env.OWNER_NAME || "☞⌜Damon⌝☜",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
